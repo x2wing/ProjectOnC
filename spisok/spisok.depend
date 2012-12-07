@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1338138563 source:c:\documents and settings\admin\мои документы\новая папка\spisok\main.cpp
+	<iostream>
+	<string.h>
+
+1338138624 source:c:\projects\spisok\main.cpp
+	<iostream>
+	<string.h>
+

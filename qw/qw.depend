@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1335976577 source:c:\documents and settings\admin\мои документы\новая папка\qw\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+

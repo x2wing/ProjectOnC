@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1338292850 source:c:\documents and settings\admin\мои документы\новая папка\laba2\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
+1338392813 source:c:\projects\laba2\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

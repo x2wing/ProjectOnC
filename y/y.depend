@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1336490817 source:c:\documents and settings\admin\мои документы\новая папка\y\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1335969865 source:c:\documents and settings\admin\рабочий стол\str\stringi\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1336498955 source:c:\cproject\str\stringi\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1336499680 source:c:\documents and settings\admin\мои документы\новая папка\stroka\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1336499680 source:c:\projects\stroka\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1336499680 source:c:\projects\laba №4\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
